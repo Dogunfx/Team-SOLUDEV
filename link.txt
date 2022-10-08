@@ -1,3 +1,6 @@
-https://github.com/Dogunfx/Hackathon-App
-github.com/NwaoghorPraise2/teamsulo-hackfest2.0
-clenv.obisomto.repl.co
+
+
+Links for Backend:             https://github.com/Dogunfx/Hackathon-App
+linksfor frontend:              https://github.com/NwaoghorPraise2/teamsulo-hackfest2.0
+frontend                             https://clenv.obisomto.repl.co
+figma:                                 https://www.figma.com/file/1l0IVMWP7PeT7UZm09Ye35/Untitled?node-id=7%3A63
